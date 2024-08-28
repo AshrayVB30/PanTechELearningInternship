@@ -1,5 +1,6 @@
 # PanTechELearningInternship
 
+This is 15 days Internship on **Genrative AI** by **Pantech E Learning**
 
 Day-1: PYTHON BASICS
       https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/PythonBasics-Day1.ipynb
