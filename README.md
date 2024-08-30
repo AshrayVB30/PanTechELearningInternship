@@ -24,16 +24,16 @@ Day-5:
  viii) MACHINE LEARNING ALGORITHMS
 
  https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/AlgorithmDay-5.ipynb
-       > LINEAR REGRESSION
-       > LOGISTIC REGRESSION
-       > POLYNOMIAL REGRESSION
-       > DECISION TREE
-       > Random Forest
-       > SVM (Support Vector Machine)
-       > KNN(Kth-NEAREST NEIGHNOUR) CLASSIFIER
-       > NAIVE BAYES
-       > ADABOOST ALGORITHM (ADAPTIVE BOOST)
-       > XGBOOST ALGORITHM
+       1. LINEAR REGRESSION
+       2. LOGISTIC REGRESSION
+       3. POLYNOMIAL REGRESSION
+       4. DECISION TREE
+       5. Random Forest
+       6. SVM (Support Vector Machine)
+       7. KNN(Kth-NEAREST NEIGHNOUR) CLASSIFIER
+       8. NAIVE BAYES
+       9. ADABOOST ALGORITHM (ADAPTIVE BOOST)
+      10. XGBOOST ALGORITHM
       House Price Prediction:
       Dataset: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/housing.csv
       Assignment: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/Assignment-2.ipynb
