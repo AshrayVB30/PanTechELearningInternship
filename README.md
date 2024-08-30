@@ -22,6 +22,8 @@ Day-4:
   
 Day-5:
  viii) MACHINE LEARNING ALGORITHMS
+
+ https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/AlgorithmDay-5.ipynb
        > LINEAR REGRESSION
        > LOGISTIC REGRESSION
        > POLYNOMIAL REGRESSION
@@ -32,4 +34,8 @@ Day-5:
        > NAIVE BAYES
        > ADABOOST ALGORITHM (ADAPTIVE BOOST)
        > XGBOOST ALGORITHM
+      House Price Prediction:
+      Dataset: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/housing.csv
+      Assignment: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%205/Assignment-2.ipynb
+       
        
