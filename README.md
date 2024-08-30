@@ -21,3 +21,15 @@ Day-4:
   vii) Assignment: ChatBot: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%204/Chatbot.ipynb
   
 Day-5:
+ viii) MACHINE LEARNING ALGORITHMS
+       > LINEAR REGRESSION
+       > LOGISTIC REGRESSION
+       > POLYNOMIAL REGRESSION
+       > DECISION TREE
+       > Random Forest
+       > SVM (Support Vector Machine)
+       > KNN(Kth-NEAREST NEIGHNOUR) CLASSIFIER
+       > NAIVE BAYES
+       > ADABOOST ALGORITHM (ADAPTIVE BOOST)
+       > XGBOOST ALGORITHM
+       
