@@ -12,7 +12,7 @@ def rotate_image(image, angle):
     return image.rotate(angle, expand=True)
 
 # Load an image (replace 'example.jpg' with your image file)
-image_path = 'C:/Users/vbash/CollegeInternship/Internship Day 7/open-cv/images/butterfly.png'
+image_path = 'images/butterfly.png'
 image = Image.open(image_path)
 
 # Rotate the image by different angles
