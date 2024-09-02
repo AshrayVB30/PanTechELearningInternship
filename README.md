@@ -54,3 +54,10 @@ Day-6:
       dataset: https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%206/diabetes.csv
       https://github.com/AshrayVB30/PanTechELearningInternship/blob/main/Internship%20Day%206/DiabeticsPrediction.ipynb
       
+Day-7:
+      DEEP LEARNING
+      https://github.com/AshrayVB30/PanTechELearningInternship/tree/main/Internship%20Day%207
+      1. Face Detection
+      2. Video reading
+      3. Image reading
+      
