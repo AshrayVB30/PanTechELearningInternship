@@ -1,7 +1,7 @@
 import cv2
 
 # read the image in grayscale
-image = cv2.imread('C:/Users/vbash/CollegeInternship/Internship Day 7/open-cv/images/butterfly.png', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('images/butterfly.png', cv2.IMREAD_GRAYSCALE)
 
 # apply global thresholding
 _, thresh_global  = cv2.threshold(image, 127, 255, cv2.THRESH_BINARY)
