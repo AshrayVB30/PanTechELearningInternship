@@ -61,3 +61,5 @@ Day-7:
       2. Video reading
       3. Image reading
       
+Bay-8:
+      Neural Network
